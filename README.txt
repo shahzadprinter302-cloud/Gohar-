@@ -1,0 +1,1 @@
+Open index.html in Chrome. Photos are embedded in the page. Calendar is set to October 17. Use the bottom NEXT buttons to move through pages.
